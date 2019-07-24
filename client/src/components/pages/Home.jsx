@@ -3,12 +3,9 @@ import React from 'react'
 export default function Home() {
   return (
     <div className="Home">
-      <h2>Home</h2>
-      <p>This is a sample project with the MERN stack</p>
-
-      <p>
-        <strong>TODO: try another way to manage inputs</strong>
-      </p>
+      <h2>Welcome to MERN Street Arts</h2>
+      <p>A collection of all Street Arts for street art lovers</p>
+      <p>Have fun!</p>
     </div>
   )
 }
