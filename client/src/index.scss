@@ -8,6 +8,7 @@ $danger: #cb444a;
 
 // Then import the following link
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../node_modules/mapbox-gl/src/css/mapbox-gl.css';
 
 // // Style for App component
 .App {
@@ -15,7 +16,7 @@ $danger: #cb444a;
 }
 
 .navbar {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 a.nav-link {
